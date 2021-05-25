@@ -1,2 +1,1 @@
-# coursera_git_week3
-it is just task
+I am editing the README file. Adding some more details about the project description.
